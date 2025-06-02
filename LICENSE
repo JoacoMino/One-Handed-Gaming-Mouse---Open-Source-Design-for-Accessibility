@@ -2,6 +2,13 @@ MIT License
 
 Copyright (c) 2025 Joaquin
 
+This repository is released under the MIT License. You are free to use, modify, 
+and distribute the designs and code for personal or commercial use, provided you
+include proper attribution.
+
+This project incorporates firmware elements from the PMW3360 module by CitizenJoe
+(available at https://www.tindie.com/products/citizenjoe/pmw3360-motion-sensor/)
+
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
